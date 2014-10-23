@@ -18,3 +18,11 @@ vi /etc/selinux/config   把SELINUX=enforce   改成disabled
 7.halt 关机  reboot 重启
 
 8.gcc44 gcc44-c++ gcc-c++ 有区别的，用错时候，可能出现error: no newline at end of file一类的错误
+
+9.查看动态链接库依赖ldd
+
+10.查看centos发布版本
+ cat /etc/issue
+ 
+内核版本：
+/proc/version
