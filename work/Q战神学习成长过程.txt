@@ -8,3 +8,8 @@ xml.id<---->mysqltable.id<------>servercode.cmdvalue
 xml.lotteryId<---->servercode.typ<-n---1->servercode.cmdvalue
 
 2014年10月24日10:29:56
+
+
+
+2.清空包
+//clearpack name=郝谷离 zone=5 type=1（主包）
